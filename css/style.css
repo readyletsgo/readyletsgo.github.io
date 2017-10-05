@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+html {
+  background: #ffffff;
+  color: #111111;
+  font: 400 1.5em/1.5 "Rubik", sans-serif;
+
+}
+
+h1, h2, h3 {
+  font-weight: 400;  
+  font-size: 1.0rem;
+}
