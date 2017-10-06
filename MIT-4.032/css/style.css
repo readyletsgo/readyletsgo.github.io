@@ -4,10 +4,12 @@
 body{
 	padding:20px;
 	margin:20px;
+	
+
 }
 html {
-  background: #ffffff;
-  color: #111111;
+  background: red;
+  color: #FF0000;
   font: 400 1.3em/1.5 "Rubik", sans-serif;
     width: 50.0%;
 }
